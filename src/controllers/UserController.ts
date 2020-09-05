@@ -1,3 +1,3 @@
-export class UserController {
+export default class UserController {
     test(): void { };
 }
